@@ -1,0 +1,9 @@
+adam7split
+adam7trunc
+*.exe
+/*-pass[1-7].png
+/*-trunc[1-7].png
+tests/interlace
+tests/progressive_decode
+tests/__pycache__/
+tests/truncated/
